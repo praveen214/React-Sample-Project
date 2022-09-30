@@ -17,6 +17,19 @@ https://extendsclass.com/rest-client-online.html
 Fake API or temperary API
 https://github.com/typicode/json-server
 
+## How to make API available for this project
+
+by using this command  "npx json-server --watch db.json"
+
+ Resources
+  http://localhost:3000/login
+  http://localhost:3000/restaurant
+
+  Home
+  http://localhost:3000
+
+## 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
