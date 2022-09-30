@@ -22,7 +22,7 @@ https://github.com/typicode/json-server
 by using this command  "npx json-server --watch db.json"
 
  Resources
-  http://localhost:3000/login
+  http://localhost:3000/login     
   http://localhost:3000/restaurant
 
   Home
